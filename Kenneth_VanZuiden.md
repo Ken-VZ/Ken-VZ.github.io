@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Picture" src="images/pic1.jpg" width="70" />
+  <img alt="Picture" src="images/pic1.jpg" width="400" />
 </div>
 <h1 align="center">
   Kenneth VanZuiden (Testing page)
